@@ -1,3 +1,11 @@
+# goit-react-hw-04-feedback
+
+Link do repozytorium:
+https://github.com/KonradKinok/goit-react-hw-04-feedback
+
+Link do strony:
+https://konradkinok.github.io/goit-react-hw-04-feedback/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
